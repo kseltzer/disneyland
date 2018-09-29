@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: Disneyland\nAdventures # REQUIRED - Enter your app name
+  name: Disneyland Adventures # REQUIRED - Enter your app name
   ios_id: 1437686882 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
@@ -94,7 +94,7 @@ download_button_text_color: white; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: Disneyland Adventures # Optional - Enter your site title
-description: The Ultimate Disneyland Guide # Optional - Enter your site description
+description: The Ultimate Disneyland Guide! # Optional - Enter your site description
 
 #
 # Google Analytics
