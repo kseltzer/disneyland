@@ -81,7 +81,7 @@ device: ipod-touch-blue-vertical # REQUIRED
 # Theme Settings
 #
 background_color: # Optional "#00579A" 
-background_image: images/castle.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: images/gradient.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: black # Optional
 social_link_color: white # Optional
