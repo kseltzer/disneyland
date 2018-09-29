@@ -85,7 +85,7 @@ background_image: # Optional - Use Relative path e.g. images/backgrounds/image.j
 text_color: white # Optional
 link_color: black # Optional
 social_link_color: white # Optional
-download_button_background_color: black # Optional
+download_button_background_color: "535353" # Optional
 download_button_text_color: white; # Optional
 
 #
