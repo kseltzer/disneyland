@@ -75,17 +75,17 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-space-gray-vertical # REQUIRED
 
 #
 # Theme Settings
 #
-background_color: "#0054B8" # Optional
+background_color: "#00579A" # Optional
 background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: # Optional
+link_color: black # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+download_button_background_color: black # Optional
 download_button_text_color: white; # Optional
 
 #
