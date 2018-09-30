@@ -29,7 +29,7 @@ body {
   color: {{ site.text_color }};
   {% endif %}
 
-  font-family: foco;
+  font-family: foco, Arial, Helvetica, sans-serif;
   font-size: 18px;
   -moz-osx-font-smoothing: grayscale;
    -webkit-font-smoothing: antialiased;
