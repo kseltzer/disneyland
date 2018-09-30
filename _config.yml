@@ -83,10 +83,10 @@ device: ipod-touch-blue-vertical # REQUIRED
 background_color: # Optional "#00579A" 
 background_image: images/gradient.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: black # Optional
+link_color: white # Optional
 social_link_color: white # Optional
 download_button_background_color: white # Optional
-download_button_text_color: "#0070af"; # Optional
+download_button_text_color: black # Optional
 
 #
 # Site Info
@@ -94,7 +94,7 @@ download_button_text_color: "#0070af"; # Optional
 # If you want specific meta info for your <head></head> tags
 #
 title: Disneyland Adventures # Optional - Enter your site title
-description: The Ultimate Disneyland Guide! # Optional - Enter your site description
+description: The Ultimate Disneyland Guide # Optional - Enter your site description
 
 #
 # Google Analytics
