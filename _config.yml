@@ -80,7 +80,7 @@ device: ipod-touch-blue-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: white # Optional "#00579A" 
+background_color: "#bbe4f7" # Optional "#00579A" 
 background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: black # Optional
 link_color: black # Optional
